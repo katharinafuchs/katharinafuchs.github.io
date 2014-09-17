@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fuchsohrwurm: School's out - Songs"
+title: 'Fuchsohrwurm: School's out - Songs'
 ---
 
 Jetzt ist es wirklich komplett offiziell: Ich muss nie wieder in die Schule. Gestern war mein Abiball, weswegen ich auch ein böses Bloggermädchen war und euch fern blieb. Wird eventuell öfter vorkommen in nächster Zeit. Aber NICHT HEUTE!  

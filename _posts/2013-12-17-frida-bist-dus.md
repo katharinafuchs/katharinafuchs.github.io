@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Frida, bist du's?"
+title: 'Frida, bist du's?'
 ---
 
 Manchmal habe ich komische Ideen. Bescheuerte Assoziationen, seltsame Eingebungen.  

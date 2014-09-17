@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fuchs verlost: Freier Eintritt Firlefanz"
+title: 'Fuchs verlost: Freier Eintritt Firlefanz'
 ---
 
 Hallöchen ihr firlefanzigen Fuchsbau-Besucher!    

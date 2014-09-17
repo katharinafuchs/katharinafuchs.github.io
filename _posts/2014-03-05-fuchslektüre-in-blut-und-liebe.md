@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fuchslektüre: In Blut und Liebe"
+title: 'Fuchslektüre: In Blut und Liebe'
 ---
 
 Wie schon vor etwas längerer Zeit angekündigt, hat mir der [Amrûn-Verlag](http://www.amrun-verlag.de/) freundlicherweise ein Rezensionsexemplar von [„In Blut und Liebe“](http://www.amrun-verlag.de/in-blut-und-liebe-erzaehlungen/) zukommen lassen. 

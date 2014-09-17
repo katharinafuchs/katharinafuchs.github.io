@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trendhure mit Katze"
+title: 'Trendhure mit Katze'
 ---
 
 Passend zu meinem heutigen Post im Online-Magazin ["Das Rudel"](http://magazin.fuchsgehtum.de) habe ich (schon wieder) einen modemäßigen Post für euch.  

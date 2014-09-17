@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ballerinas stampfen nicht"
+title: 'Ballerinas stampfen nicht'
 ---
 
 Ihr Lieben: Ich habe das Haus verlassen.  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Impressum"
+title: 'Impressum'
 ---
 
 Katharina Fuchs

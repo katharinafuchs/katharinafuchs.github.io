@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sparfuchs schlägt zu"
+title: 'Sparfuchs schlägt zu'
 ---
 
 Wie ich euch [gestern](http://fuchsgehtum.de/ein-samstag-mit-krokussen-consty-und-bubble-tea/) ja schon berichtet hatte, waren Consty und ich in der Stadt.  

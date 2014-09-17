@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Partnerlook"
+title: 'Partnerlook'
 ---
 
 "Ey, lass uns morgen unser Partnershirt anziehen!"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Warum Ironie mich ankotzt und wir alle feige Idioten sind"
+title: 'Warum Ironie mich ankotzt und wir alle feige Idioten sind'
 ---
 
 "Du kannst nicht immer alles ironisch meinen - für irgendetwas musst du auch mal stehen!"  

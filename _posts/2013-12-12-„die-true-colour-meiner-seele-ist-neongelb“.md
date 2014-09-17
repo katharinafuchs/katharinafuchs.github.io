@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "„Die true colour meiner Seele ist neongelb!“"
+title: '„Die true colour meiner Seele ist neongelb!“'
 ---
 
 Ja, diese Überschrift beschreibt schon ziemlich gut meine Einstellung zu Bad Taste-Parties. Hat zwar meine beste Freundin Anna gesagt, aber mir damit aus der Seele gesprochen. Obwohl, bei mir ist es eher neonpink.

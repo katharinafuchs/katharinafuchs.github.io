@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fuchsohrwurm: Gemischte Gefühle"
+title: 'Fuchsohrwurm: Gemischte Gefühle'
 ---
 
 Einen sonnigen Montag, meine Lieben!

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sport ist Mord"
+title: 'Sport ist Mord'
 ---
 
 

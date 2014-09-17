@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fuchsfell: Haare hoch!"
+title: 'Fuchsfell: Haare hoch!'
 ---
 
 Hallöchen ihr Hübschen!

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fuchsohrwurm: Montagsblues"
+title: 'Fuchsohrwurm: Montagsblues'
 ---
 
 Es ist Montag und wir ergehen uns alle in kollektivem Selbstmitleid. 

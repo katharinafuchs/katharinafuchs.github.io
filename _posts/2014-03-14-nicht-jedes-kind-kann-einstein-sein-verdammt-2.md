@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nicht jedes Kind kann Einstein sein, verdammt!"
+title: 'Nicht jedes Kind kann Einstein sein, verdammt!'
 ---
 
 Unser Schulsystem ist kacke, das ist allgemein anerkannt.  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Schon wieder Schuhe."
+title: 'Schon wieder Schuhe.'
 ---
 
 Ich wollte nicht so viel über Mode und Schuhe bloggen, [erinnert ihr euch?](http://fuchsgehtum.de/schuhe/)  

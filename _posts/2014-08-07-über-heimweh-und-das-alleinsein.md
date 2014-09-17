@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Über Heimweh und das Alleinsein // About missing home and being alone"
+title: 'Über Heimweh und das Alleinsein // About missing home and being alone'
 ---
 
 (Okay, eigentlich sollte hier mein naechster Reisepost stehen, aber Flickr und ich haben gerade... Differenzen. Darum heute ohne Bilder, dafuer umso persoenlicher.)  

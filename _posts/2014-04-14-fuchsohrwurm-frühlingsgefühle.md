@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fuchsohrwurm: Frühlingsgefühle"
+title: 'Fuchsohrwurm: Frühlingsgefühle'
 ---
 
 Aaaaaaah, ihr Lieblichen!  

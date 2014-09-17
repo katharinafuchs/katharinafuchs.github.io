@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reisefuchs: Weiter geht's! // Let's go on!"
+title: 'Reisefuchs: Weiter geht's! // Let's go on!'
 ---
 
 Haaaaaaaalloechen allerseits! Na, habt ihr mich vermisst? Ich weiss, ich weiss, ich war eine boese Bloggerdame, aber die Internetsituation war wirklich, wirklich durchwachsen in den letzten beiden Wochen. Nun bin ich aber zurueck mit einer gefuehlten Quadrillion Posts von meiner Rundreise. Den ersten gibt es heute - ich erzaehle euch von der ersten richtigen Station meiner Reise bzw. vielmehr meinem Weg dorthin: Die Karimunjawa Islands.  

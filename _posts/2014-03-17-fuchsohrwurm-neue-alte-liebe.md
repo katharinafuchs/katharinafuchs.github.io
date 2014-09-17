@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fuchsohrwurm: Neue alte Liebe"
+title: 'Fuchsohrwurm: Neue alte Liebe'
 ---
 
 Hallo!  

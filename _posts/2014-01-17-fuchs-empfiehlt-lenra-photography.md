@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fuchs empfiehlt: Lenra Photography"
+title: 'Fuchs empfiehlt: Lenra Photography'
 ---
 
 Ich persönlich liebe es ja, wenn Menschen es drauf haben, schwarzweiß zu fotografieren. Kann das selbst nicht so, mag Farben zu gerne.  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fuchsohrwurm: Pump it!"
+title: 'Fuchsohrwurm: Pump it!'
 ---
 
 Haaallo allerseits!

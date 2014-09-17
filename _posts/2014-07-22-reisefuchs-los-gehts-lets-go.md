@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reisefuchs: Los geht's // Let's go!"
+title: 'Reisefuchs: Los geht's // Let's go!'
 ---
 
 (Vorab ein kurzes Wort der Entschuldigung und Warnung: Ich habe momentan durch meine Reiserei eher unregelmäßig Internet und reiche die Posts deswegen dann nach, wenn ich welches habe. Wenn in einem Post also "jetzt" steht, ist das fast immer schon ein paar Tage her. Will die Erlebnisse aber möglichst zeitnah schildern und schreibe sie deswegen meist im Moment des Erlebens oder kurz danach auf. Aber lasst uns zum eigentlichen Post kommen!)  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Großstadt-Indiana"
+title: 'Großstadt-Indiana'
 ---
 
 Moinsen, ihr Schnecken und Schneckeriche!  

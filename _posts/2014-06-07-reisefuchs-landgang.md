@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reisefuchs: Landgang"
+title: 'Reisefuchs: Landgang'
 ---
 
 "Oh Gott, steig bloß nicht auf dieses Motorrad, wer weiß, wann das zum letzten Mal beim TÜV war!?! Gibt es in Indonesien überhaupt einen TÜV?! Das ist doch viel zu gefährlich!"

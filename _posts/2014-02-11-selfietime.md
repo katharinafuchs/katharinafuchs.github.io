@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SELFIETIME!"
+title: 'SELFIETIME!'
 ---
 
 Wer in seinem Leben noch kein Selfie gemacht hat, hat sich noch nie wirklich selbst betrachtet.  

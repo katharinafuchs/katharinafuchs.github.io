@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reisefuchs: Ich bin weg!"
+title: 'Reisefuchs: Ich bin weg!'
 ---
 
 Kinder, Kinder, Kinder.

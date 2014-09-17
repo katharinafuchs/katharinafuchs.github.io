@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alter!"
+title: 'Alter!'
 ---
 
 Ich bin 18, werde dieses Jahr 19. Mein Freund ist 22 und sagt manchmal Sätze, die ungefähr so anfangen: "Als ich in deinem Alter war..." 

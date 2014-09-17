@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fuchsohrwurm: Aus alt mach neu"
+title: 'Fuchsohrwurm: Aus alt mach neu'
 ---
 
 Mooooinsen!  

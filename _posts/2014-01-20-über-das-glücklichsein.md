@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Über das Glücklichsein"
+title: 'Über das Glücklichsein'
 ---
 
 Neulich habe ich ein paar Menschen aus meiner Facebook-Freundesliste gelöscht.  

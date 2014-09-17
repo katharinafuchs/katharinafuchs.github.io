@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ausgefuchst ausgetestet: FF-Tanktop"
+title: 'Ausgefuchst ausgetestet: FF-Tanktop'
 ---
 
 Seit Freitagabend hat der Inhalt meines Kleiderschranks seine Bedeutung verloren.

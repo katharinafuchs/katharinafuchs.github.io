@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FAQ"
+title: 'FAQ'
 ---
 
 "Nicht negativ gemeint... aber was genau _machst_ du eigentlich?!"  

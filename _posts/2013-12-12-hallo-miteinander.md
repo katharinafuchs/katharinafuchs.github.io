@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hallo miteinander."
+title: 'Hallo miteinander.'
 ---
 
 „Oh nein, nicht noch eine, die ihr Sushi und ihre Klamotten fotografiert!“, denkst du dir entsetzt, als du über diesen Blog stolperst. Ein weiteres 18-jähriges Mädchen, das ihr Tagebuch gerne der Internetgemeinde in die Fresse klatschen möchte – juhu.

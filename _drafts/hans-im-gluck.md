@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hans im Glück"
+title: 'Hans im Glück'
 ---
 
 Es gibt Orte auf dieser Welt, die sind märchenhaft. Man könnte glauben, es seien eine Prise Feenstaub und ein kleines bisschen Magie, die diese Orte zu dem machen, was sie sind. Man könnte glauben, dass die Welt an manchen Stellen einfach vergisst, groß, laut, schnell und überwältigend zu sein. Dass kleine, verwunschene Ruhepole einfach aus der Erde sprießen und sich zwischen Beton und Baumaßnahmen verstecken. Das könnte man glauben. Aber oft ist das nur die halbe Wahrheit. 

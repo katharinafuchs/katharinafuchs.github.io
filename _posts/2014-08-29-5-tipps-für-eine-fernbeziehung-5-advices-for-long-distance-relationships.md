@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5 Tipps für eine Fernbeziehung // 5 advices for long distance-relationships"
+title: '5 Tipps für eine Fernbeziehung // 5 advices for long distance-relationships'
 ---
 
 ![Imgur](http://i.imgur.com/fSnVEda.jpg)  

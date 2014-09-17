@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reisefuchs: Lebenszeichen 1"
+title: 'Reisefuchs: Lebenszeichen 1'
 ---
 
 Eine Sache möchte ich allen nachfolgenden Erzählungen voranstellen: Danket dem Herrn oder der zuständigen Person für die Erfindung der Klimaanlage.  

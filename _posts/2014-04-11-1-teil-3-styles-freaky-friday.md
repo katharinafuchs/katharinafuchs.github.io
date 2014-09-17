@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1 Teil 3 Styles - Freaky Friday"
+title: '1 Teil 3 Styles - Freaky Friday'
 ---
 
 "It's friday, friday..."  

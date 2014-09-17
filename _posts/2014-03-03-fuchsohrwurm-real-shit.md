@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fuchsohrwurm: Real Shit"
+title: 'Fuchsohrwurm: Real Shit'
 ---
 
 Guten Montag, ihr Fuchsbau-Sweethearts!  

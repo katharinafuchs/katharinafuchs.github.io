@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vaginentag"
+title: 'Vaginentag'
 ---
 
 Oh ja, stimmt, es ist Valentinstag, fast vergessen.  

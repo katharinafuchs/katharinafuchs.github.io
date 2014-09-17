@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fuchs feiert: Abi, Alter!"
+title: 'Fuchs feiert: Abi, Alter!'
 ---
 
 Ich glaube, ich muss nicht viel sagen, um diese Bilder zu rechtfertigen. Den Drang nach Post-Abi-Party und kompletter Eskalation habe ich lange nicht nachvollziehen können, aber lasst euch eins gesagt sein: Es tut wirklich gut.  

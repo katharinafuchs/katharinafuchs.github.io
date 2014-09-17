@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fuchs feiert: Rosapark"
+title: 'Fuchs feiert: Rosapark'
 ---
 
 Uaaaah. Gerade erst aufgestanden. Füchschen hatte Schlaf nachzuholen.  

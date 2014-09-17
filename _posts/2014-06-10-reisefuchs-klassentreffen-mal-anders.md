@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reisefuchs: Klassentreffen mal anders"
+title: 'Reisefuchs: Klassentreffen mal anders'
 ---
 
 So, ihr wollt den restlichen Bericht ueber meinen Tag in Ancol? Sollt ihr haben! Due to Probleme with the Bilderhochladerei etwas laenger gebraucht, trotzdem noch eine wunderschoene Erinnerung.  

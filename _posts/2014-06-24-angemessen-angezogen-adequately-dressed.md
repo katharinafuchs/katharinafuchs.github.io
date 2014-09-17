@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Angemessen angezogen // Adequately dressed"
+title: 'Angemessen angezogen // Adequately dressed'
 ---
 
 Ich habe ja immer so meine Probleme damit, mich Dresscodes zu unterwerfen. Bei Kleiderzwang draengt es mich nach Jumpsuits und Hosen, zum Bewerbungsgespraech wuerde ich am liebsten mein buntestes Blueschen anziehen - anpassen ist anders. Sobald mir jemand sagt "Das kannst du so aber nicht anziehen!" frage ich trotzig:  "Wieso nicht?"  

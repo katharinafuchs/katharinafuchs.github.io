@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Schon wieder der gleiche abgelutschte "Good Life"-Scheiß"
+title: 'Schon wieder der gleiche abgelutschte "Good Life"-Scheiß'
 ---
 
 Wie oft habt ihr es schon gehört?

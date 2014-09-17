@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reisefuchs: Monas und mehr // Monas and more"
+title: 'Reisefuchs: Monas und mehr // Monas and more'
 ---
 
 Einen wunderschoenen Sonntag wuensche ich euch, ihr Karottenkuchenkruemel!  

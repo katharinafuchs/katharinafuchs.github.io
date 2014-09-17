@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Reisefuchs: And oh, those summer nights!"
+title: 'Reisefuchs: And oh, those summer nights!'
 ---
 
 Erst mal: Wenn ihr wisst, aus welchem Musical die Überschrift dieses Posts stammt, bekommt ihr 7,5 Sympathiepunkte. Wenn nicht, solltet ihr euch schämen und diese Bildungslücke möglichst schnell schließen, damit ihr mich ganz passend anflehend könnt, endlich zum eigentlichen Punkt zu kommen und von Samstagabend zu erzählen: "Tell me more, tell me more..."  
 **//**  
 First and foremost: If you know which musical the headline of this post is from, you get 7,5 points for sympathy. If you don't, you should educate yourself als quickly as possible in order to be able to ask me to finally get to the actual point of this post and tell you about saturday night in the only appropriate way: "Tell me more, tell me more..."  
-![1](https://farm4.staticflickr.com/3908/14454709109_1c699d741c_c.jpg)
+{<2>}![1](https://farm4.staticflickr.com/3908/14454709109_1c699d741c_c.jpg)
 ![2](https://farm4.staticflickr.com/3879/14618311976_62ecafd84b_c.jpg)  
 ![3](https://farm6.staticflickr.com/5477/14640892342_13996065b5_c.jpg)  
 ![4](https://farm3.staticflickr.com/2911/14454881957_ab8a1030f9_c.jpg)  

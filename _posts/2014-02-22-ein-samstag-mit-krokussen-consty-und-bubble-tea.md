@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ein Samstag mit Krokussen, Consty und Bubble Tea"
+title: 'Ein Samstag mit Krokussen, Consty und Bubble Tea'
 ---
 
 Hallöchen ihr Hübschen!

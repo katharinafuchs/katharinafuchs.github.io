@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Foodblogger und warum ich nie einer sein wollte"
+title: 'Foodblogger und warum ich nie einer sein wollte'
 ---
 
 ![Yes, Baby!](http://farm3.staticflickr.com/2834/11933696615_97e7d028e6_c.jpg)  

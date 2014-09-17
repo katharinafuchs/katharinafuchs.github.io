@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fuchsrevier: Farbenfroher Firlefanz"
+title: 'Fuchsrevier: Farbenfroher Firlefanz'
 ---
 
 So viele Alliterationen in einem Titel. Herrje.  

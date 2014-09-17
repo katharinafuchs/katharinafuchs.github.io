@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fuchs vorm Foto: disco bohème"
+title: 'Fuchs vorm Foto: disco bohème'
 ---
 
 Kinners!  

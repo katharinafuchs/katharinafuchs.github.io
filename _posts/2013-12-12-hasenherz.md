@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hasenherz"
+title: 'Hasenherz'
 ---
 
 ![Das Herz in der Hand und auf der Zunge.](http://farm4.staticflickr.com/3809/11271139684_a8ecba167c_c.jpg "Hasenherz")

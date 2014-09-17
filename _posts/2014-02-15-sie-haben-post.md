@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sie haben Post!"
+title: 'Sie haben Post!'
 ---
 
 Heute abend gibt's anal und ich freu' mich drauf!  

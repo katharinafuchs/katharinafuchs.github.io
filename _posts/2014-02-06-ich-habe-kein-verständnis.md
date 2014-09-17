@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ich habe kein Verständnis"
+title: 'Ich habe kein Verständnis'
 ---
 
 Ich bin an und für sich ein sehr, sehr verständnisvoller Mensch.

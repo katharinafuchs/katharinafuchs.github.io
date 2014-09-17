@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LOVE YOUR BODY - TAG"
+title: 'LOVE YOUR BODY - TAG'
 ---
 
 Hallo ihr Hübschen, ich habe mir einen Tag ausgedacht. Nein, keinen neuen Wochen- oder Festtag, sondern einen Tag. Neudeutsch!  
