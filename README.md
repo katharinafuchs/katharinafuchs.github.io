@@ -7,5 +7,5 @@ $ bundle install
 ## Preview
 
 ```sh
-$ jekyll serve
+$ jekyll serve -w
 ```
