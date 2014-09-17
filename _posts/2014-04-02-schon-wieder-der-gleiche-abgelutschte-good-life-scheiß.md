@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Schon wieder der gleiche abgelutschte "Good Life"-Scheiß"
+title: "Schon wieder der gleiche abgelutschte 'Good Life'-Scheiß"
 ---
 
 Wie oft habt ihr es schon gehört?
@@ -14,7 +14,7 @@ Achja, "carpe diem". Auch sehr beliebt.
 Und so sehr sie mich nerven, wisst ihr was? Diese ganzen idiotischen Sprüche sind verdammt wahr. Mir fällt immer wieder auf, wie unnötig unglücklich manche Menschen sind, vor allem aber, wie unnötig sie ihre Umwelt damit belasten. Ich meine damit nicht Menschen, die ernsthafte Probleme haben, sondern Menschen, die sich bei den kleinsten Unannehmlichkeiten ernsthafte Probleme einbilden.  
 ![Happy1](https://farm8.staticflickr.com/7344/13582753275_753551ea6d_c.jpg)  
 Zuerst einmal: In Afrika verhungern Kinder. Selbst in Deutschland schlafen Millionen Menschen auf der Straße. Das heißt nicht, dass man als halbwegs wohlhabender und wohlgenährter Mensch keine Probleme haben darf, es setzt diese Probleme aber gleich in ein ganz anderes Verhältnis. Es tut mir leid, aber ich finde es einfach undankbar, wenn Menschen sich zum Beispiel stundenlang über Essen aufregen, das nicht ihren Geschmack trifft o.ä.  Andere Menschen würden sich über dieses Essen freuen.  
-Mein eigentliches Problem in solchen Situationen sind aber weniger die Beschwerden an sich, denn Unzufriedenheit ist häufig verständlich und auch angebracht. Vielmehr wundert es mich, wie sehr manche Menschen in dieser Unzufriedenheit aufgeben. Manchmal habe ich das Gefühl, dass Menschen gar nicht merken, wie lange, ausführlich und vor allem **unnötig** sie sich über Dinge aufregen, die nun wirklich kein Weltuntergang sind.  
+Mein eigentliches Problem in solchen Situationen sind aber weniger die Beschwerden an sich, denn Unzufriedenheit ist häufig verständlich und auch angebracht. Vielmehr wundert es mich, wie sehr manche Menschen in dieser Unzufriedenheit aufgehen. Manchmal habe ich das Gefühl, dass Menschen gar nicht merken, wie lange, ausführlich und vor allem **unnötig** sie sich über Dinge aufregen, die nun wirklich kein Weltuntergang sind.  
 Ich beschwere mich selbst sehr gern und motze auch schon mal, wenn mir etwas überhaupt nicht passt. Das muss ab und zu einfach mal sein, ein bisschen fluchen lässt Druck ab und kann auch hilfreich und erleichternd sein. Seit ich aber realisiert habe, was mein Problem mit Meckerei ist, bin ich dafür auch bei mir selbst viel sensibler geworden: Meckern ändert auch nichts.  
 Es macht nur unglücklich. Und ich bin lieber glücklich. Und so schwer ist das eigentlich auch nicht.  
 gestrigen Tag als Beispiel: Er fing ziemlich bescheiden an, weil ich dachte, ich hätte verschlafen, in Wahrheit aber eine Stunde zu früh wach war. Für die Frühschicht, die um sechs Uhr beginnt. Allein der Umstand, für diese Schicht um halb fünf aufstehen zu müssen, wäre eigentlich meckernswert. Aber, was soll ich sagen: So spielt das Leben. Millionen Menschen arbeiten Schicht. Und das ihr ganzes Leben lang - nicht nur wie ich 4 Wochen lang als Ferienarbeiterin.  

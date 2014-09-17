@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Ich mag Smartphones" oder Warum mir das "Look Up"-Video tierisch auf die Eierstöcke geht"
+title: "'Ich mag Smartphones' oder Warum mir das 'Look Up'-Video tierisch auf die Eierstöcke geht"
 ---
 
 (Eigentlich sollte hier ein Post mit Fotos von Consty stehen. Aus aktuellem Anlass kommt der jetzt erst am Donnerstag oder so. Aber ich muss mal kurz ragen.)  
