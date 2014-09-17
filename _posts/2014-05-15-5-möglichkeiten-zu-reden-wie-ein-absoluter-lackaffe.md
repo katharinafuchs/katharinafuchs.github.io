@@ -1,0 +1,33 @@
+---
+layout: post
+title: "5 Rede-Fauxpas, die dich dastehen lassen wie einen Idioten/eine Idiotin"
+---
+
+Guten Abend, meine sehr verehrten Damen und Herren!  
+Ich, Katharina Fuchs, geboren mit einem Rotstift in der Hand und bekennende Grammar-Nazi-Braut möchte Ihnen in unserer heutigen Sitzung den Gebrauch des elaborierten Codes der deutschen Sprache näherbringen.  
+Nein, ohne Scheiß.  
+Wie Menschen sprechen, definiert zu sehr großen Teilen, wie andere Menschen sie wahrnehmen. Nicht umsonst reden zum Beispiel die meisten von uns anders mit Autoritätspersonen (LehrerInnen, ProfessorInnen, BeamtInnen...) als mit ihren Freunden. Das ist normal. Umgangssprache und offizielle Sprache sind zwei Paar Schuhe. Trotzdem gibt es einige Dinge, die man sich nur zu gerne angewöhnt, die die eigene Sprache unnötig "verschlechtern". Ich rede hier nicht von einem hohen Ross herab, ich bin ein großer Freund von Anglizismen und Jugendsprache. Ich rede von Indikatoren, die Unsicherheit beim Sprechen zeigen. Niemand von uns möchte vermutlich einen absolut verunsicherten ersten Eindruck machen. Aber Sicherheit und Stärke fängt schon bei der Sprache an.  
+Darum hier einige Tipps, die ich momentan selbst anwende, um mehr so zu klingen, als hätte ich Ahnung, wovon ich rede:  
+
+* **1. Tod den Füllwörtern!**  
+Wir kennen sie alle: "halt", "eben", "so" und Konsorten. Kleine, feine Wörtchen, die selbst eigentlich keine Bedeutung haben, dafür allerdings überdurchschnittlich oft im allgemeinen Sprachgebrauch verwendet werden. Das liegt daran, dass diese Wörtchen Zeit schaffen. Zeit, um über den folgenden Satz oder das nächste Wort nachzudenken, beispielsweise. Sie schaffen allerdings nicht nur Zeit, sondern haben auch einen durchaus unangenehmen Nebeneffekt: Sie relativieren. "Das ist eben so." klingt weniger definitiv als "Das ist so." Und wer etwas sagen möchte, sollte dies nicht relativieren müssen. Sag' es ganz oder gar nicht, das ist seit einiger Zeit mein Motto.  
+
+* **2. Pausieren wie ein Pascha!**  
+Ist euch schon mal aufgefallen, dass Menschen, die ihre Füße auf einer höheren Stufe der Karriereleiter platziert haben, häufig schweigen? Mitten im Satz? Sekundenlang? Mir ist das nun schon mehrmals passiert, häufig war ich kurz davor, zu fragen, ob alles in Ordnung sei, oder ob der oder die Betreffende gerade einen Schlaganfall mit Lähmung der Mundregion erlitten habe. Bis mir auffiel: Schweigen ist Gold. Anstelle der Pausen dieser Menschen würde ich wohl "äh", "ähm" oder "öh" sagen. Vielleicht würde ich auch das Wort vor der Pause in die Länge ziehen. Und warum? Wiederum: Um mir selbst eine Denkpause zu verschaffen. Diese Denkpausen sind zwar wichtig, denn zu überdenken, was man sagt, bevor man dies tut, ist ein elementarer Bestandteil vernünftiger Konversationen. Allerdings hat ein "ähm" noch weniger Gehalt als ein "eben" und wirkt noch unsicherer. Weg damit! Pausen stehen jedem von uns zu - nehmen wir sie uns doch einfach, statt die entstehende Stille krampfhaft mit seltsamen Lauten zu füllen.  
+
+![Wortsalat](https://farm8.staticflickr.com/7340/14187812541_2ed9047fc6_c.jpg)  
+
+* **3. Ruhig, Brauner!**  
+Sprecht ihr manchmal mit Menschen, die so schnell reden, dass eure Augen und Ohren teilweise gar nicht mehr hinterherkommen, während die wuselnden Wörter dieser Person euren Kopf umschwirren und euch ganz schwindlig wird? Ich bin so eine Person. Ich spreche selbst teilweise so schnell, dass Menschen sich wundern, wie meine Zunge noch keine 362 Knoten haben kann. Jahrelanges Training.  
+Auch hier ist der springende Punkt jedoch wieder folgender: Menschen, die sich ihrer Position sicher sind, hetzen nicht. Die meisten von ihnen sprechen bedacht und langsam. Nicht Einschlaf-Langsam, aber so langsam, dass man ihnen problemlos folgen kann. Diese Menschen wissen: Ihre Worte haben Gewicht. Sie stehlen damit niemandem Zeit. Wenn man etwas Wichtiges zu sagen hat, ist es vollkommen egal, wie lange man dafür braucht. Das versuche ich mir persönlich auch vorzuhalten. Auch, wenn mir Menschen ins Wort fallen oder merklich nicht zuhören: Ich muss mich nicht hetzen. Nehmt euch genau die Zeit zum Sprechen, die ihr braucht!  
+
+* **4. Du hast sehr wohl eine Ahnung!**  
+Ich weiß nicht, wie häufig diese Angewohnheit ist, aber ich habe sie jetzt schon an mehreren Menschen, mich selbst eingeschlossen, beobachtet. Die Rede ist davon, Sätze mit "keine Ahnung", "weiß nicht", "ich glaube" etc. einzuleiten, zu unterbrechen und abzuschließen. Gerade in der Schule ist das meinen Beobachtungen nach ein recht häufiges Phänomen. Ich glaube aber, dass die meisten, die diese relativierenden Ausdrücke benutzen, sehr wohl eine Ahnung haben. Mir persönlich ging es bei ihrer Benutzung oft darum, nicht als Klugscheißer dazustehen. Das ist allerdings Bullshit. Wenn man etwas weiß oder sicher sagen möchte, wenn man eine Ahnung hat, dann macht es keinen Sinn, so zu tun, als wäre dem nicht so!  
+
+* **5. Ich bin ich!**  
+Auf diesen Fauxpas wurde ich von Moritz Freiherr Knigge persönlich hingewiesen, dem Nachkommen des Verfassers der bekannten Benimmregeln. Wenn er es nicht weiß, wer dann? Nein, aber ernsthaft: Obwohl ich nicht mit allem, was Knigge sagt, übereinstimme, muss ich ihm in diesem Punkt recht geben. Wenn ich von mir rede, muss ich auch die Pronomina der ersten Form Singular verwenden. Im Klartext: Wenn es um mich geht, muss ich auch "ich" sagen. Ich selbst tendiere häufig dazu, aus "ich" "man" zu machen, um meine Aussage allgemeingültiger zu machen. Das ist aber Schwachsinn. Ich habe keine Ahnung, wie "man" zu einem Problem steht. Ich kann immer nur von meinem Standpunkt aus sprechen. "Ich-Botschaften" zu senden, ist viel höflicher und besser nachvollziehbar, als von einer breiten, undefinierten Masse zu sprechen, indem ich auf "man" ausweiche. Wenn ich eine Meinung habe, sollte ich auch dazu stehen und nicht die halbe Menschheit sprachlich ausnutzen, um mich zu rechtfertigen!  
+
+So ihr Lieben, ich hoffe, dieser etwas andere Post war interessant und vielleicht sogar hilfreich für euch. Ich persönlich habe mir, bevor mich diverse Menschen aus meinem Freundes- und Familienkreis, mein Schulleiter und Deutschlehrer und der sehr verehrte Freiherr Knigge darauf aufmerksam machten, eigentlich nie Gedanken über diese Punkte gemacht. Seither fallen sie mir in Gesprächen jedoch sofort auf. An mir selbst und an anderen Menschen. Vielleicht fällt es der einen oder dem anderen von euch jetzt auch wie Schuppen von den Augen. Vielleicht auch nicht. Ich weiß nur: Mir hilft diese Liste sehr, von super-überdreht und quasselig zu seriös zu switchen.  
+Damit und mit ganz viel Fuchsliebe entlasse ich euch für heute!
+
+
