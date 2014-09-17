@@ -4,4 +4,3 @@ description: auf Trampelpfoten durch die Welt
 
 permalink: /:title
 markdown: redcarpet
-pygments: true
