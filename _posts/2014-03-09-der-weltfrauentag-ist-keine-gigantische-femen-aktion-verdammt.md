@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Der Weltfrauentag ist keine gigantische Femen-Aktion, verdammt!'
+title: "Der Weltfrauentag ist keine gigantische Femen-Aktion, verdammt!"
 ---
 
 Feminismus hat generell irgendwie ein schlechtes Image. Für die meisten ist eine Feministin eine kurzhaarige Kampflesbe, die ihre unbequemen Forderungen permanent und ungefragt in die Welt hinausschreit. 

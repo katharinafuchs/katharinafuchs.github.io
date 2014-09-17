@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fuchsohrwurm: Suess und stampfig // Sweet and stompy'
+title: "Fuchsohrwurm: Suess und stampfig // Sweet and stompy"
 ---
 
 Moin, allerseits!  

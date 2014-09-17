@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '1 Teil 3 Styles: Entspannter Montag'
+title: "1 Teil 3 Styles: Entspannter Montag"
 ---
 
 Einen entspannten Montag... hatte ich heute nicht so ganz. Wünsche ich euch aber! 

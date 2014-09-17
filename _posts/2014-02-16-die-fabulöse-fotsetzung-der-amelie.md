@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Die fabulöse Fortsetzung der Amelie'
+title: "Die fabulöse Fortsetzung der Amelie"
 ---
 
 Vor genau einer Woche habe ich euch die ersten Bilder aus dem Shooting mit [Amelie](http://fuchsgehtum.de/die-verdammt-verregnete-welt-der-amelie/) gezeigt. Wenn sie euch gefallen haben, könnt ihr euch jetzt freuen: Heute gibt es mehr davon!  

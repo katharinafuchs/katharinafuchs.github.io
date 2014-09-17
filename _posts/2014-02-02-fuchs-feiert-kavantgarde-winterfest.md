@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fuchs feiert: Kavantgarde Winterfest'
+title: "Fuchs feiert: Kavantgarde Winterfest"
 ---
 
 Eigentlich dachte ich, ich würde den gestrigen Abend in Bayern verbringen.

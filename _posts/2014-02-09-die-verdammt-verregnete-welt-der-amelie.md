@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Die verdammt verregnete Welt der Amelie'
+title: "Die verdammt verregnete Welt der Amelie"
 ---
 
 Gestern haben [Amelie](https://www.facebook.com/AmyStravinski) und ich es endlich geschafft, uns zum Fotografieren zu treffen.  

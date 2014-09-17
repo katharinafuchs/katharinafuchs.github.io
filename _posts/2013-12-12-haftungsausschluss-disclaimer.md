@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Haftungsausschluss (Disclaimer)'
+title: "Haftungsausschluss (Disclaimer)"
 ---
 
 #### Haftung für Inhalte

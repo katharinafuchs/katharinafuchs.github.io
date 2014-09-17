@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fuchsohrwurm:  Sex, Liebe, Traeume // Sex, love, dreams'
+title: "Fuchsohrwurm:  Sex, Liebe, Traeume // Sex, love, dreams"
 ---
 
 Iiiiich habe Musiklieblinge fuer euch! Ziemlich coole sogar! Wollt ihr hoeren? Zieht sie euch rein! 

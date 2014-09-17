@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ich mag Züge'
+title: "Ich mag Züge"
 ---
 
 Das wird keine Fortsetzung meiner gestrigen [Buchrezension](http://fuchsgehtum.de/fuchslekt%C3%BCre-ich-mag-regen/), auch wenn Marvin Ruppert die Fortsetzung seines Buches schon so nennen könnte. Fände ich gut.  

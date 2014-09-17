@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jede Stunde Happy Hour!'
+title: "Jede Stunde Happy Hour!"
 ---
 
 Ich habe kein wirkliches Lebensmotto, wenn ich allerdings eines hätte, wäre "Jede Stunde Happy Hour" ein ziemlich heißer Kandidat. Wenn ich irgendwann berühmt werden sollte, wird das meine Reality-Show: My new Lebensmotto!  

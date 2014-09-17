@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ich habe eine Frage.'
+title: "Ich habe eine Frage."
 ---
 
 Und sie beschäftigt mich wirklich.  

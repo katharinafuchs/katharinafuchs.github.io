@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fuchsohrwurm: Aufbruchsstimmung // Ready to go'
+title: "Fuchsohrwurm: Aufbruchsstimmung // Ready to go"
 ---
 
 Einen wunderschoenen Montag allerseits! Meinerseits war dieser schon mit allen Gefuehlslagen gespickt, aber wisst ihr, was immer passt? Musik! Darum hier 5 Tracks, die mir Leben geben!  

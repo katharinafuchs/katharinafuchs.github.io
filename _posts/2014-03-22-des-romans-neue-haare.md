@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Des Romans neue Haare'
+title: "Des Romans neue Haare"
 ---
 
 Heute tummelte sich vor meiner Linse mein frisch frisierter Kumpel Roman. Ganz intelligente Menschen haben das vielleicht schon dem Titel entnehmen können.  

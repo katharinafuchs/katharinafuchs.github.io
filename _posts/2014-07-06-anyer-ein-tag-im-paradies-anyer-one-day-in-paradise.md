@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Anyer - Ein Tag im Paradies // Anyer - One day in paradise'
+title: "Anyer - Ein Tag im Paradies // Anyer - One day in paradise"
 ---
 
 Was ich dieses Wochenende so gemacht habe? Oh, nur einen Roadtrip zum wohl perfektesten Ort, den ich je gesehen habe. David, einer der Kadetten aus dem English-Team, fragte mich, ob ich Lust haette, mit ihm und einigen anderen aus seinem Dormitorium an den Strand zu fahren. Wir wuerden eine Nacht dort bleiben, alles sei organisiert. 

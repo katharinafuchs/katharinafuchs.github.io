@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fuchslektüre: Ich mag Regen'
+title: "Fuchslektüre: Ich mag Regen"
 ---
 
 Ich mag Regen wirklich, aber es geht hier (ausnahmsweise) gar nicht um mich. Es geht um Marvin Rupperts neues Buch "Ich mag Regen - Traurige Liebesgeschichten aus meinem Leben".  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hallo Leben!'
+title: "Hallo Leben!"
 ---
 
 Wenn ich morgen den letzten Punkt unter meine letzte Abiturklausur setze, werde ich aufstehen, "Tschüss ihr Säcke!" schreien, nach hause fahren, mir meinen Rucksack schnappen und mich mit [Anna](http://magazin.fuchsgehtum.de/anna/) auf den Weg nach Berlin machen.  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fuchsohrwurm: Regenlieder'
+title: "Fuchsohrwurm: Regenlieder"
 ---
 
 Man könnte meinen, mein Blog hieße nicht "Fuchs geht um", sondern "Wetterfrosch", so oft wie ich hier mittlerweile über Regen rede.  

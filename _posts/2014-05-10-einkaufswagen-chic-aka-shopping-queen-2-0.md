@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Einkaufswagen-Chic aka Shopping Queen 2.0'
+title: "Einkaufswagen-Chic aka Shopping Queen 2.0"
 ---
 
 Ihr Hübschen!  

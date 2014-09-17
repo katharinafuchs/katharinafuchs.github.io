@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fuchsohrwurm: Melancholie und Mitsinglieder'
+title: "Fuchsohrwurm: Melancholie und Mitsinglieder"
 ---
 
 Ihr Lieben. Es ist Montag. Immer und immer wieder darf ich euch das verkünden - und es wird nie weniger schlimm. Bin heute eine wandelnde Leiche, da ich dank Abifeierei heute noch circa gar nicht geschlafen habe - yay!  

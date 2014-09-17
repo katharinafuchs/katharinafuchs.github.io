@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reisefuchs: 5 Tipps für eine Fernbeziehung // 5 tips for long distance relationships'
+title: "Reisefuchs: 5 Tipps für eine Fernbeziehung // 5 tips for long distance relationships"
 ---
 
 ![Imgur](http://i.imgur.com/fSnVEda.jpg)  

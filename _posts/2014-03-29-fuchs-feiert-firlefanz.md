@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fuchs feiert: Firlefanz'
+title: "Fuchs feiert: Firlefanz"
 ---
 
 Seit Wochen nerve ich euch dauernd damit, heute ist es endlich so weit: [Farbenfroher Firlefanz](https://www.facebook.com/events/1381827378723424/?ref_newsfeed_story_type=regular) im Vanguarde!  

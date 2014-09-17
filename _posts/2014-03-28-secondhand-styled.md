@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Secondhand styled'
+title: "Secondhand styled"
 ---
 
 "Ih, du kaufst Klamotten auf dem Flohmarkt?!"  

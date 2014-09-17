@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Weihnachten im Fuchsbau'
+title: "Weihnachten im Fuchsbau"
 ---
 
 Wie überraschend: Es ist Weihnachten.

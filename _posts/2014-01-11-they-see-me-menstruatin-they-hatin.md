@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'They see me menstruatin' - they hatin'!'
+title: "They see me menstruatin' - they hatin'!"
 ---
 
 Aus aktuellem Anlass habe ich beschlossen, über die weibliche Menstruation zu bloggen.  

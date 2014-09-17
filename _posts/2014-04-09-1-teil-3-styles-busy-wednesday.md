@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '1 Teil 3 Styles - Busy Wednesday'
+title: "1 Teil 3 Styles - Busy Wednesday"
 ---
 
 Und weiter geht die wilde Fahrt - 1 Teil 3 Styles geht in die nächste Runde.  

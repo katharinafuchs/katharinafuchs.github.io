@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Friendzoned" oder Warum willst du eigentlich nur ficken?!'
+title: ""Friendzoned" oder Warum willst du eigentlich nur ficken?!"
 ---
 
 "Eine Schweigeminute fuer unsere Brüder in der Friendzone", schreibst du unter das Foto eines Jungen mit seiner besten Freundin im Arm. Ich sehe deinen Kommentar und rolle die Augen. Es gab eine Zeit, da fand ich Kommentare über die "Friendzone" lustig. Diese Zeit ist vorbei. Es ist jetzt Zeit fuer Klartext: Die Friendzone ist der größte Bullshit, den sich ein hormongebeuteltes Teenagerhirn jemals ausgedacht hat. Noch dazu ist sie sexistisch, objektifizierend und überdies einfach dumm.  

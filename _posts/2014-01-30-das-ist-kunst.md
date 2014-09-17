@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Das ist Kunst!'
+title: "Das ist Kunst!"
 ---
 
 Irgendein Hundebesitzer Karlsruhes ist seit Dienstagabend wohl leider etwas verstört.  

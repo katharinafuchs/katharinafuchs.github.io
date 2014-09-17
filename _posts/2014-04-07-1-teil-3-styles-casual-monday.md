@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '1 Teil 3 Styles - Casual Monday'
+title: "1 Teil 3 Styles - Casual Monday"
 ---
 
 Hallöchen ihr Hübschen!

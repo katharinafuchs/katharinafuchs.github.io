@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fuchsohrwurm: Empfehlung des Hauses'
+title: "Fuchsohrwurm: Empfehlung des Hauses"
 ---
 
 Einen wunderschönen guten Tag, ihr Uschis!  

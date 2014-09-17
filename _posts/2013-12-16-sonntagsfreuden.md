@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sonntagsfreuden'
+title: "Sonntagsfreuden"
 ---
 
 Obwohl es vielleicht durch die Überschrift so klingt, war ich heute nicht im Freudenhaus, sondern "nur" bei Anna. Wir wollten Geschichte lernen.  

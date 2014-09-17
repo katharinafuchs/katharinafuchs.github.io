@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reisefuchs: Ausflug mit Freunden // Trip with friends'
+title: "Reisefuchs: Ausflug mit Freunden // Trip with friends"
 ---
 
 Bevor es schon wieder ins nächste Wochenende geht, möchte ich euch gerne noch zeigen, wie es letztes Wochenende bei mir nach [Monas](http://fuchsgehtum.de/reisefuchs-monas-und-mehr-monas-and-more/) weiterging. Denn wer glaubte, der Trip sei mit einem Museumsbesuch schon abgeschlossen gewesen, der hat weit gefehlt! Tatsächlich ging es danach erst richtig los!  

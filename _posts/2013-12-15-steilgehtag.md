@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#Steilgehtag'
+title: "#Steilgehtag"
 ---
 
 Ich hatte euch ja schon angekündigt, dass mein [KOHI-Besuch](http://fuchsgehtum.de/fuchsrevier-kohi/) gestern einen speziellen Grund hatte: Es handelt sich um diese beiden Menschen.

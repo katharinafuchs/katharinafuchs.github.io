@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reisefuchs: And oh, those summer nights!'
+title: "Reisefuchs: And oh, those summer nights!"
 ---
 
 Erst mal: Wenn ihr wisst, aus welchem Musical die Überschrift dieses Posts stammt, bekommt ihr 7,5 Sympathiepunkte. Wenn nicht, solltet ihr euch schämen und diese Bildungslücke möglichst schnell schließen, damit ihr mich ganz passend anflehend könnt, endlich zum eigentlichen Punkt zu kommen und von Samstagabend zu erzählen: "Tell me more, tell me more..."  

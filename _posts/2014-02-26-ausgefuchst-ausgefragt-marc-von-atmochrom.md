@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ausgefuchst ausgefragt: Marc von Atmochrom'
+title: "Ausgefuchst ausgefragt: Marc von Atmochrom"
 ---
 
 Gestern traf ich mich auf einen Grüntee bzw. in seinem Fall eine heiße Schokolade mit [Marc](http://magazin.fuchsgehtum.de/marc/) im [Artcafé](http://www.artcafe-jockgrim.de/). 

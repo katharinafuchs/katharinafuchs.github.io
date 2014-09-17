@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fuchsohrwurm: Überraschend berechenbar'
+title: "Fuchsohrwurm: Überraschend berechenbar"
 ---
 
 Moinsen ihr Hübschen!  

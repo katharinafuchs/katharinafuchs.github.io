@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '5 Rede-Fauxpas, die dich dastehen lassen wie einen Idioten/eine Idiotin'
+title: "5 Rede-Fauxpas, die dich dastehen lassen wie einen Idioten/eine Idiotin"
 ---
 
 Guten Abend, meine sehr verehrten Damen und Herren!  

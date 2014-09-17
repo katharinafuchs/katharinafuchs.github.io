@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fuchsohrwurm: Das ist nicht vintage, verdammt, das ist RETRO!'
+title: "Fuchsohrwurm: Das ist nicht vintage, verdammt, das ist RETRO!"
 ---
 
 Es ist Montag - Musiktag bei Fuchs geht um!

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Datenschutzerklärung'
+title: "Datenschutzerklärung"
 ---
 
 Datenschutz

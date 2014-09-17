@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Über die unerträgliche Unvereinbarkeit des Seins'
+title: "Über die unerträgliche Unvereinbarkeit des Seins"
 ---
 
 Irgendjemand hat irgendwann einmal gesagt, dass der Unwissende viel leichter glücklich sein kann. Glaube ich zumindest. Wenn nicht, darf man mich damit ab jetzt gern zitieren.  

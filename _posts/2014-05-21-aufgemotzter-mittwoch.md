@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '1 Teil 3 Styles: Aufgemotzter Mittwoch'
+title: "1 Teil 3 Styles: Aufgemotzter Mittwoch"
 ---
 
 Kinder, versucht niemals, ein Visum sehr kurzfristig zu beantragen. Es ist keine gute Erfahrung. Minimal stressig und nervenaufreibend - aber hey, wenn ich das Visum habe, geht es schon bald los. Wohin, erfahrt ihr dann hier - mein Businesslook heute ist aber keine schlechte Vorbereitung, auch, wenn ich ihn so dort nicht tragen könnte.

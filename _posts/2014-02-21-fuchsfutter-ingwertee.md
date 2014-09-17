@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fuchsfutter: Ingwertee'
+title: "Fuchsfutter: Ingwertee"
 ---
 
 Ich habe ein neues Lieblingsgetränk.  

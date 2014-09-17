@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tanztherapie'
+title: "Tanztherapie"
 ---
 
 Wenn ich Leuten erzähle, dass ich bei der Tanztherapie war, gehen die meisten davon aus, ich hätte psychische Probleme.  

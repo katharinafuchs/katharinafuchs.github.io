@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TAUSCHRAUSCH + Tatort'
+title: "TAUSCHRAUSCH + Tatort"
 ---
 
 Ich liebe ja das [Vanguarde](http://vanguar.de/). Das gesamte Tempel-Kulturzentrum ist eine sehr feine Sache!  

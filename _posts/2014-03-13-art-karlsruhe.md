@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'art Karlsruhe'
+title: "art Karlsruhe"
 ---
 
 Heute eröffnet in der Messe Karlsruhe offiziell die art Karlsruhe. Eine riesige Kunstmesse, vier Hallen voller Plastiken, Installationen, Gemälde etc. Wer kulturell gebildet erscheinen möchte, sollte sich schnell in den Bus-Shuttle vom Hauptbahnhof aus setzen und seinen hintern in diese heiligen Halle bewegen. Es ist überwältigend.  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Warum Glückskekse ohne Zettel die besseren Glückskekse sind'
+title: "Warum Glückskekse ohne Zettel die besseren Glückskekse sind"
 ---
 
 Vorab: Ich mag keine Glückskekse.

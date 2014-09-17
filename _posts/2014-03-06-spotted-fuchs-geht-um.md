@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Spotted: Fuchs geht um'
+title: "Spotted: Fuchs geht um"
 ---
 
 Hallöchen ihr lieblichen Kreaturen!  

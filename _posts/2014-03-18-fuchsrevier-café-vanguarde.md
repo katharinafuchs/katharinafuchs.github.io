@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fuchsrevier: Café Vanguarde'
+title: "Fuchsrevier: Café Vanguarde"
 ---
 
 Aus meiner "Fuchsrevier"-Reihe gab es schon ganz schön lange nichts mehr zu lesen - damit ist heute Schluss!

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reisefuchs: Bangin' Ancol'
+title: "Reisefuchs: Bangin' Ancol"
 ---
 
 Kinder, Kinder, Kinder.  

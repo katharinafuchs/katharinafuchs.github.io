@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reisefuchs: Tanjung Priok'
+title: "Reisefuchs: Tanjung Priok"
 ---
 
 Die Uni, an der ich hier in Jakarta Freiwilligenarbeit mache, ist auf Berufe im Marinebereich ausgelegt.  

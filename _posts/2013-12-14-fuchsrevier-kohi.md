@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fuchsrevier: KOHI'
+title: "Fuchsrevier: KOHI"
 ---
 
 Heute gibt's den ersten von werweißwievielen Teilen meiner neuen Reihe: Fuchsrevier.  

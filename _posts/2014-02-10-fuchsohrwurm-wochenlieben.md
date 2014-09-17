@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fuchsohrwurm: Wochenlieben'
+title: "Fuchsohrwurm: Wochenlieben"
 ---
 
 Können wir kurz darüber sprechen, dass ich mir am Wochenende sowohl einen koreanischen Arthaus-Film als auch Django als Puppentheaterstück angesehen habe? Ja, eure Füchsin ist SO avantgarde.  

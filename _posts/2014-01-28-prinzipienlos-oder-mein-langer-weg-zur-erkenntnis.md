@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Prinzipienlos oder Mein langer Weg zur Erkenntnis'
+title: "Prinzipienlos oder Mein langer Weg zur Erkenntnis"
 ---
 
 Ich bin kein Mensch mit Prinzipien.

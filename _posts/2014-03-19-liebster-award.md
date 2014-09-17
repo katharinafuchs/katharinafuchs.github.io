@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LIEBSTER Award'
+title: "LIEBSTER Award"
 ---
 
 Whoopsie Daisy, da wurde ich glatt doppelt für den "Liebster"-Award nominiert. Wie wundervoll!  

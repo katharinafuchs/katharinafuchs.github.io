@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tintentabakfetzen'
+title: "Tintentabakfetzen"
 ---
 
 Tintenflecke und Tabakfetzen auf einem leeren Blatt.
