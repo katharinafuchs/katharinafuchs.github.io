@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fuchsohrwurm: Pump it!"
+image: http://i.imgur.com/QA9fX8N.jpg
 tags:
 - music
 - swag

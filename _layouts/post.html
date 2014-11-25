@@ -1,15 +1,33 @@
 ---
 layout: default
 ---
-<div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
-
-  <article class="post-content">
+<article class="container featurepost">
+  <a href="#"><img src="{% if page.image %}{{ page.image }}{% else %}/img/default.jpg{% endif %}" class="featureimg img-responsive" alt="#"></a>
+  <div class="featurecontent">
+    <h1>{{ page.title }}</h1>
+    <h4>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</h4>
     {{ content }}
-  </article>
+  </div>
+</article>
 
-</div>
+
+<section class="blogfeed">
+  <div class="container">
+    <h3>Related Posts</h3>
+    <div class="row">
+
+      <div class="col-md-4">
+        <article class="shortarticle">
+          <a href="#"><img src="img/feed.jpg" class="shortthumb img-responsive" alt="#"></a>
+          <h2>Headline</h2>
+          <p>Mlkshk Wes Anderson 90's asymmetrical +1, iPhone umami banjo narwhal vinyl Bushwick four loko. Lomo you probably haven't heard of them Kickstarter.<a href="#" class="featurereadmore">Read more!</a></p>
+          <footer class="shortarticlefooter">
+            <p>Vom: 01. Januar 2014 - Tags: <a href="#">#Tag1</a>, <a href="#">#Tag2</a>, <a href="#">#Tag2</a></p>
+          </footer>
+        </article>
+      </div>
+
+    </div>
+  </div>
+</section>
