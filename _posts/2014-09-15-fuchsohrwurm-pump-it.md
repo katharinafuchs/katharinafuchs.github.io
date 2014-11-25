@@ -1,6 +1,11 @@
 ---
 layout: post
 title: "Fuchsohrwurm: Pump it!"
+tags:
+- music
+- swag
+- meat
+- pork
 ---
 
 Haaallo allerseits!
