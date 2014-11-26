@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: page
 title: "Haftungsausschluss (Disclaimer)"
+permalink: disclaimer/
 ---
 
 #### Haftung für Inhalte
