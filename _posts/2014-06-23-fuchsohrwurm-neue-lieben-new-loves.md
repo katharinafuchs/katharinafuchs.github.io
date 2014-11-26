@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Fuchsohrwurm: Neue Lieben // New loves"
+tags:
+- music
 ---
 
 Guten Montag allerseits! Musik? Ja bitte! // A good monday to all of you! Music? Yes please!  

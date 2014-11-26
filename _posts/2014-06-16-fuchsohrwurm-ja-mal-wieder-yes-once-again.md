@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Fuchsohrwurm: Ja, mal wieder. / Yes, once again."
+tags:
+- music
 ---
 
 Hallo an alle, denen meine Reiseposts schon auf die Nerven gingen: Ein Post aus einer meiner "regulaeren" Reihen. Yep, tatsaechlich. Es gibt mal wieder Musik! Lasst uns gleich reinhoeren!  

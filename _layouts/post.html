@@ -12,22 +12,21 @@ layout: default
 </article>
 
 
+{% if page.tags.size > 0 %}
+{% assign i = 0 %}
 <section class="blogfeed">
   <div class="container">
     <h3>Related Posts</h3>
     <div class="row">
 
-      <div class="col-md-4">
-        <article class="shortarticle">
-          <a href="#"><img src="img/feed.jpg" class="shortthumb img-responsive" alt="#"></a>
-          <h2>Headline</h2>
-          <p>Mlkshk Wes Anderson 90's asymmetrical +1, iPhone umami banjo narwhal vinyl Bushwick four loko. Lomo you probably haven't heard of them Kickstarter.<a href="#" class="featurereadmore">Read more!</a></p>
-          <footer class="shortarticlefooter">
-            <p>Vom: 01. Januar 2014 - Tags: <a href="#">#Tag1</a>, <a href="#">#Tag2</a>, <a href="#">#Tag2</a></p>
-          </footer>
-        </article>
-      </div>
+      {% for post in site.tags[page.tags.first] limit:4 %}
+      {% if i != "3" and post.id != page.id %}
+      {% include post_preview.html %}
+      {% capture i %}{{ i | plus:1 }}{% endcapture %}
+      {% endif %}
+      {% endfor %}
 
     </div>
   </div>
 </section>
+{% endif %}

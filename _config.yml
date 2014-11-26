@@ -4,10 +4,10 @@ author: Katharina Fuchs
 description: auf Trampelpfoten durch die Welt
 email: post@fuchsgehtum.de
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://fuchsgehtum.de" # the base hostname & protocol for your site
+url: http://fuchsgehtum.de # the base hostname & protocol for your site
 
 paginate: 6
-paginate_path: ":num/"
+paginate_path: /:num
 
 # Build settings
 permalink: /:title

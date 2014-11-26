@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Fuchsohrwurm: Suess und stampfig // Sweet and stompy"
+tags:
+- music
 ---
 
 Moin, allerseits!  
