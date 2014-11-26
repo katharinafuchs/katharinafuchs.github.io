@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "#Steilgehtag"
+image: http://farm6.staticflickr.com/5532/11372364843_d6cc8e107a_c.jpg
+tags:
+- people
 ---
 
 Ich hatte euch ja schon angekündigt, dass mein [KOHI-Besuch](http://fuchsgehtum.de/fuchsrevier-kohi/) gestern einen speziellen Grund hatte: Es handelt sich um diese beiden Menschen.

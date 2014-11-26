@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Partnerlook"
+image: http://farm8.staticflickr.com/7340/11325969115_b6c3f556e0_c.jpg
+tags:
+- fashion
 ---
 
 "Ey, lass uns morgen unser Partnershirt anziehen!"
