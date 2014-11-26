@@ -6,18 +6,16 @@ permalink: impressum/
 
 Angaben gemäß § 5 TMG:
 
-Katharina Fuchs  
-Siemensstraße 1b
-76751 Jockgrim
+Katharina Fuchs    
+Siemensstraße 1b  
+76751 Jockgrim   
+  
 Kontakt:
 
-E-Mail:  post@fuchsgehtum.de
-Handy: 017697832319
+E-Mail:  post@fuchsgehtum.de  
+Handy: 017697832319  
 
 Quellenangaben für die verwendeten Bilder und Grafiken:
 
-* "Fuchs"-Zeichnung: Nina Blesinger
 * Design & Programmierung: [Marc Leyendecker](http://www.marcleyendecker.com) 
 * Texturen (Wavecut & Textured Paper): [Subtle Patterns](http://subtlepatterns.com/)
-
-Vielen Dank an ["A Small Orange"](http://asmallorange.com/) für das tolle Hosting und den Support.
