@@ -1,5 +1,5 @@
 ---
 layout: tag
 permalink: tag/fashion/
-title: fashion
+title: Fashion-Fuchs
 ---
