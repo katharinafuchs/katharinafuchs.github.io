@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Baustelle Weihnachten"
+image: http://farm4.staticflickr.com/3782/11309415383_3049ceff26_c.jpg
 ---
 
 Na, weihnachtet es bei euch auch schon so sehr? Deckt ihr die Halls und jingelt bellend herum?

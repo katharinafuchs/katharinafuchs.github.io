@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "„Die true colour meiner Seele ist neongelb!“"
+image: http://farm4.staticflickr.com/3689/11279470053_a08f48b760_c.jpg
 ---
 
 Ja, diese Überschrift beschreibt schon ziemlich gut meine Einstellung zu Bad Taste-Parties. Hat zwar meine beste Freundin Anna gesagt, aber mir damit aus der Seele gesprochen. Obwohl, bei mir ist es eher neonpink.
