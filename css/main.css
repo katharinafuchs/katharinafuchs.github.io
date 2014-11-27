@@ -45,7 +45,7 @@ body{
         margin-bottom: 5em}
 
 .featureimg {
-        margin-bottom: 12px;
+        margin: 4px auto 12px auto;
         opacity: 1;
         -webkit-transition: all ease-out .5s;
         -moz-transition: all ease-out .5s;
