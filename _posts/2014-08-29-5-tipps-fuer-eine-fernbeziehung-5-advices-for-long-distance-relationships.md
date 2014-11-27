@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "5 Tipps für eine Fernbeziehung // 5 advices for long distance-relationships"
----
-
-![Imgur](http://i.imgur.com/fSnVEda.jpg)  
+image: http://i.imgur.com/fSnVEda.jpg
+tags:
+- feelings
+---  
 
 Ja, ihr habt richtig gelesen. Einige von euch wissen es wohl bereits, andere werden sich denken "Was zum Geier?!". Hatte ich hier noch vor einiger Zeit prophezeit, mich aus diesem Business erst einmal herauszuhalten, bin ich nun doch "in einer Beziehung". Und nicht in irgendeiner, nein, fuer meine 3 Monate hier in Indonesien auch in einer Fernbeziehung. Sogar in einer ziemlich fernen Fernbeziehung, wenn man so will.  
 Klingt erst mal kacke. Ist es auch ein bisschen. Gerade, weil der Teil mit der Ferne bei mir laenger dauert als die eigentliche Beziehung davor, koennte man meinen, dass es doch ziemlich bekloppt ist, sich auf den ganzen Herzschmerz, die stundenlange Skyperei und das unweigerliche Vermissen einzulassen. Ja, bekloppt wird man wohl, wenn man verliebt ist. Aber da kommt auch schon Tipp Nummer eins ins Spiel:  

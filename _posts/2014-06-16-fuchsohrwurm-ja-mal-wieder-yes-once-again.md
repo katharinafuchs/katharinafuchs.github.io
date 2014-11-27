@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fuchsohrwurm: Ja, mal wieder. / Yes, once again."
+image: https://farm6.staticflickr.com/5233/14432118944_b849a1fc0b_c.jpg
 tags:
 - music
 ---

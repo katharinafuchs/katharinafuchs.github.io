@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Anyer - Ein Tag im Paradies // Anyer - One day in paradise"
+image: https://farm3.staticflickr.com/2900/14399713118_07af96c95c_c.jpg
+tags:
+- travel
 ---
 
 Was ich dieses Wochenende so gemacht habe? Oh, nur einen Roadtrip zum wohl perfektesten Ort, den ich je gesehen habe. David, einer der Kadetten aus dem English-Team, fragte mich, ob ich Lust haette, mit ihm und einigen anderen aus seinem Dormitorium an den Strand zu fahren. Wir wuerden eine Nacht dort bleiben, alles sei organisiert. 

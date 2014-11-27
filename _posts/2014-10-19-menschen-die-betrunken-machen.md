@@ -4,6 +4,7 @@ title: "Von Menschen, die betrunken machen"
 image: http://i.imgur.com/3HnkdKB.jpg
 tags:
 - people
+- feelings
 ---  
 Meine beste Freundin schrieb vor einiger Zeit auf ihre große Lebens-To-do-Liste:  
 "[ ] Beweisen, dass Nerds rocken!"  

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Reisefuchs: Just married"
+image: ttps://farm4.staticflickr.com/3842/14316472609_ee5287522d_c.jpg
+tags:
+- travel
 ---
 
 Ich hatte es ja [schon erzaehlt](http://fuchsgehtum.de/angemessen-angezogen-adequately-dressed/): Letzten Sonntag hatte ich das Glueck, einer traditionellen indonesischen Hochzeit beizuwohnen. In Bandung. In einer wunderschoenen Location. Mit unfassbar vielen, wahnsinnig netten Menschen. Lasst mich gar nicht viel labern, es gibt so viel zu zeigen! Bilderflut - los!  

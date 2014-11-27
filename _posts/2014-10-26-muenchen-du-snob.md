@@ -3,7 +3,7 @@ layout: post
 title: "München, du Snob."
 image: http://i.imgur.com/byu8PL6.jpg
 tags:
-- music
+- travel
 ---  
 Kinder, ich habe das Land durchquert. Mich in einen Fernbus gesetzt, meine Nacht dort verbracht und am nächsten Morgen München gesehen.
 München ist seltsam. Vor allem für mich als sehr bewusste Wahlhamburgerin ist München ein innerdeutscher Kulturschock. Alles ist so groß und geradlinig, wirkt geplant für große Autos oder Menschen mit Designerhandtaschen. Was für ein unglaubliches Klischee.  

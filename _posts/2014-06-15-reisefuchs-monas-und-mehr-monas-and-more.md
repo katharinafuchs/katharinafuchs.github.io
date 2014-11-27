@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "Reisefuchs: Monas und mehr // Monas and more"
+image: https://farm6.staticflickr.com/5514/14402775086_c079dae931_c.jpg
+tags:
+- travel
+- people
 ---
 
 Einen wunderschoenen Sonntag wuensche ich euch, ihr Karottenkuchenkruemel!  

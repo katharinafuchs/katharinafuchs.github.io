@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Reisefuchs: BBQ und Sommernaechte // BBQ and summer nights"
+image: https://farm4.staticflickr.com/3866/14640900482_a5cc41a3cb_c.jpg
+tags:
+- travel
 ---
 
 Achja, das Wochenende ist schon eine feine Sache... Ich liebe diese freien Tage, an denen meine Freunde von der Uni keine Uniform tragen und ganz viel Zeit fuer allen moeglichen Schabernack haben - am liebsten natuerlich immer draussen!  

@@ -2,6 +2,8 @@
 layout: post
 title: "'Das kann doch nicht so schwer sein!' - Ein Plädoyer für realistische Liebe"
 image: http://i.imgur.com/vih47Ew.png
+tags:
+- feelings
 ---  
 **"Das kann doch nicht so schwer sein!"  
 "Ist es aber... es ist immer schwer."  

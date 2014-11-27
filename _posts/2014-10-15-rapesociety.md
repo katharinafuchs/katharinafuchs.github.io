@@ -2,6 +2,8 @@
 layout: post
 title: "Ich wurde sexuell belästigt und es war widerlich. // I was sexually harrassed and it was disgusting."
 image: http://i.imgur.com/u1K5Qdr.png
+tags:
+- feelings
 ---  
 (Disclaimer: Dieser Text entstand vor etwas längerer Zeit. Er ist trotzdem noch aktuell. **//** This text is a bit older but still relevant.)  
 

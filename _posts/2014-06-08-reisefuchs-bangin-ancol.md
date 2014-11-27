@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Reisefuchs: Bangin' Ancol"
+image: https://farm4.staticflickr.com/3877/14372516594_a12342b0ee_c.jpg
+tags:
+- travel
 ---
 
 Kinder, Kinder, Kinder.  

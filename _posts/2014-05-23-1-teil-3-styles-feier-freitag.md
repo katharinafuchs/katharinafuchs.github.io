@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "1 Teil 3 Styles: Feier-Freitag"
+image: https://farm6.staticflickr.com/5493/14252520534_4a6d4fc844_c.jpg
+tags:
+- fashion
 ---
 
 Ihr wunderschönen Kinder der Nacht, erhebet eure Gläser mit mir auf mein wahrscheinlich doch noch rechtzeitig erstelltes Visum und den Fakt, dass Freitag ist und heute der letzte "1 Teil 3 Styles"-Part kommt. Das Leben ist schön.   

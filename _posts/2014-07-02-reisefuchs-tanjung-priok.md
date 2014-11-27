@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Reisefuchs: Tanjung Priok"
+image: https://farm4.staticflickr.com/3838/14548297012_0e35c1cd8b_c.jpg
+tags:
+- travel
 ---
 
 Die Uni, an der ich hier in Jakarta Freiwilligenarbeit mache, ist auf Berufe im Marinebereich ausgelegt.  

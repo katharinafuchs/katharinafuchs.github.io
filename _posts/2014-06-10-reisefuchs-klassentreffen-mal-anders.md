@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Reisefuchs: Klassentreffen mal anders"
+image: https://farm4.staticflickr.com/3869/14384462361_67106e8ed4_c.jpg
+tags:
+- travel
 ---
 
 So, ihr wollt den restlichen Bericht ueber meinen Tag in Ancol? Sollt ihr haben! Due to Probleme with the Bilderhochladerei etwas laenger gebraucht, trotzdem noch eine wunderschoene Erinnerung.  

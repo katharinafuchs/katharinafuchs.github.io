@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Reisefuchs: Lebenszeichen 1"
+image: https://farm6.staticflickr.com/5233/14327586926_34c4663e71_c.jp
+tags:
+- travel
 ---
 
 Eine Sache möchte ich allen nachfolgenden Erzählungen voranstellen: Danket dem Herrn oder der zuständigen Person für die Erfindung der Klimaanlage.  

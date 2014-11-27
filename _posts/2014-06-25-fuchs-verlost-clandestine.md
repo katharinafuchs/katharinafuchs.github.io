@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "Fuchs verlost: CLANDESTINE"
+image: https://farm6.staticflickr.com/5573/14316568519_93dd2880c6_c.jpg
+tags:
+- giveaway
+- music
 ---
 
 Ja, diese Woche ist ganz schön was los auf dem Blog. Das hat diverse Gründe, einer davon ist für den heutigen Post verantwortlich, hat 2 Köpfe und ein sehr musikalisches Herz. Am Freitag könnt ihr diesen Grund im Vanguarde persönlich bewundern.  

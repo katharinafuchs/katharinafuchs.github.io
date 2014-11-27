@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "Reisefuchs: And oh, those summer nights!"
+image: https://farm6.staticflickr.com/5570/14454680967_72f1ae3d37_c.jpg
+tags:
+- travel
+- people
 ---
 
 Erst mal: Wenn ihr wisst, aus welchem Musical die Überschrift dieses Posts stammt, bekommt ihr 7,5 Sympathiepunkte. Wenn nicht, solltet ihr euch schämen und diese Bildungslücke möglichst schnell schließen, damit ihr mich ganz passend anflehend könnt, endlich zum eigentlichen Punkt zu kommen und von Samstagabend zu erzählen: "Tell me more, tell me more..."  

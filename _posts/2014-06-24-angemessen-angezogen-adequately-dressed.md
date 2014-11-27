@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "Angemessen angezogen // Adequately dressed"
+image: https://farm4.staticflickr.com/3893/14494878542_80e2015e6f_c.jpg
+tags:
+- fashion
+- travel
 ---
 
 Ich habe ja immer so meine Probleme damit, mich Dresscodes zu unterwerfen. Bei Kleiderzwang draengt es mich nach Jumpsuits und Hosen, zum Bewerbungsgespraech wuerde ich am liebsten mein buntestes Blueschen anziehen - anpassen ist anders. Sobald mir jemand sagt "Das kannst du so aber nicht anziehen!" frage ich trotzig:  "Wieso nicht?"  

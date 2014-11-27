@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Reisefuchs: Ich bin weg!"
+tags:
+- travel
 ---
 
 Kinder, Kinder, Kinder.

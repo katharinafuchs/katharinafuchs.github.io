@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Reisefuchs: Landgang"
+image: https://farm4.staticflickr.com/3924/14342430686_a039548f6e_c.jpg
+tags:
+- travel
 ---
 
 "Oh Gott, steig bloß nicht auf dieses Motorrad, wer weiß, wann das zum letzten Mal beim TÜV war!?! Gibt es in Indonesien überhaupt einen TÜV?! Das ist doch viel zu gefährlich!"

@@ -1,13 +1,15 @@
 ---
 layout: post
 title: "Reisefuchs: Weiter geht's! // Let's go on!"
+image: https://farm4.staticflickr.com/3868/14713102091_0cbd933b04_c.jpg
+tags:
+- travel
 ---
 
 Haaaaaaaalloechen allerseits! Na, habt ihr mich vermisst? Ich weiss, ich weiss, ich war eine boese Bloggerdame, aber die Internetsituation war wirklich, wirklich durchwachsen in den letzten beiden Wochen. Nun bin ich aber zurueck mit einer gefuehlten Quadrillion Posts von meiner Rundreise. Den ersten gibt es heute - ich erzaehle euch von der ersten richtigen Station meiner Reise bzw. vielmehr meinem Weg dorthin: Die Karimunjawa Islands.  
 **//**  
 Heeeeeeeello everyone! Did you miss me? I know, I know, I've been a really naughty blogger-lady, but the general internet-situation has been more than unstable for the last two weeks. But now I'm back with about a quadrillion posts from my travels around Indonesia. The first one's up today - I'll tell you a bit about the first real station of my vacation or more my way there: The Karimunjawa Islands.  
-
-![](https://farm4.staticflickr.com/3868/14713102091_0cbd933b04_c.jpg)   
+   
 ![](https://farm4.staticflickr.com/3838/14716302595_b31cf534af_c.jpg)  
 ![](https://farm4.staticflickr.com/3900/14529668889_9d92b91d47_c.jpg)   
 Um auf die Karimunjawas zu gelangen, muss der/die geneigte Tourist/in zuerst einmal zum Faehrhafen in Jepara, der auf den obigen Bildern zu sehen ist. Ich erreichte diesen Stopp von Semarang aus per Bus. Pro-Tipp: Wenn ihr irgendwo in der Naehe des Bahnhofes uebernachtet, ankommt, was auch immer, beschliesst nicht, zum Busbahnhof zu laufen. Er ist am Arsch der Welt und Indonesien-typisch sind Fussgaenger nicht unbedingt eingeplant. Nehmt euch einfach ein Becak (Fahrradtaxi), da passt alles Gepaeck samt euch bequem hinein, und lasst euch fahren.  
