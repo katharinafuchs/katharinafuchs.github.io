@@ -322,3 +322,7 @@ body{
 @media screen and (max-width: 685px) {
         
         .category {display: none;}}
+
+.articlelist .item:nth-child(3n + 1) {
+  clear: both;
+}
