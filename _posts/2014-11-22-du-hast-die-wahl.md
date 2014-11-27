@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Du hast die Wahl"
+image: http://i.imgur.com/Ursktkl.jpg
+tags:
+- feelings
+---   
+Ein Paar roter ICE-Rücklichter verschwindet im Altonaer Nebel und ich stehe am Bahngleis - allein. Wenn ich blinzle spüre ich die Kälte nicht geweinter Tränen an meinen Wimpern, drücke die Augen zu, spüre die Nässe, die von innen gegen die Lider drängt - und lächle.  
+"Lachen!", klingt es mir noch in den Ohren, deine so verhasste und zugleich geliebte Aufforderung. Ich schaffe es nie, nicht zu weinen. Nie.  
+Die Abschiede werden nicht leichter, nur ich werde besser darin, unter Tränen zu lachen. Einmal, zweimal, dreimal zu schlucken, tief durchzuatmen, und durch den pünktlich eingetroffenen Regen zurück zu meiner Wohnung zu laufen.  
+Eine Tür aufzuschließen, hinter der gestern noch du auf mich gewartet hättest. Meine Schuhe in einen Flur zu stellen, in dem gestern noch deine Treter standen. Mir einen Tee zu machen, ohne dich zu fragen, ob du auch eine Tasse möchtest. Mich auf meinen Schreibtischstuhl sinken zu lassen und mich langsam in meinem Zimmer umzuschauen. Noch sieht man Spuren deiner Anwesenheit, zerwühlte Bettwäsche, verrückte Möbel, eine Tasse, ein Glas.  
+Doch die Normalität kommt schneller zurück, als man glauben möchte. Und so sehr ich mir wünsche, dass deine Kleider auf meinem Sofa oder deine Tasse auf meinem Tisch oder dein Macbook auf meinem Schreibtisch Normalität wären, sind sie es nicht. Sie sind verzauberte Scheinrealität inmitten eines ganz normalen Alltags, sind Erinnerungen an diesen Mann, der am anderen Ende des Landes existiert und den man so einfach vergessen könnte, würde man sich nicht etwas genauer in meinem wieder normalisierten Zimmer umsehen. Da hängen ein, zwei Fotos, dort liegt ein Männershirt, in dem ich schlafe - für Außenstehende könnte es so wirken, als seist du nie da gewesen. Und doch warst du es. Und das macht es so schwer.  
+Kinder, wenn ihr glaubt, sowas sei einfach: Tut euch das nicht an.   
+Wenn ihr die Wahl habt, wählt nie eine Fernbeziehung. Ihr glaubt vielleicht, ihr kriegt das schon hin, dass das doch so schwer nicht sein kann und glaubt mir: Das dachte ich auch. Ich dachte, man könne das Alleinsein, das Vermissen, das Starksein trainieren. Und ja, vielleicht weine ich nicht mehr so viel, wenn wir uns (meist auf unbestimmte Zeit) verabschieden. Vielleicht finde ich Mittel und Wege, besser damit klarzukommen. Aber das ändert nichts daran, wie sehr so ein Abschied wehtut. Wie sehr es wehtut, zu wissen, dass wir uns nicht sehen können, wenn wir das wollen. Zu wissen, dass virtuelle Kommunikation von nun an wieder Küsse und deine beruhigende Hand auf meiner Schulter ersetzen werden müssen - und es niemals können.  
+"Ich finde es schön, dass du deinen Traum lebst", sagst du an meinem Ohr, bevor du in den Zug steigst und fragst mich, ob ich mir mein Hamburg so vorgestellt hatte. Ob ich dachte, dass ich irgendwann in meiner Traumstadt am Bahnhof stehe und mich von meinem Freund verabschiede, eine Fernbeziehung führe.  
+Nein, so hatte ich mir das wohl ganz und gar nicht vorgestellt. Aber jetzt ist es das, was ich will. Ich will meinen Traum leben und wissen, dass es in einer anderen Traumstadt einen Mann gibt, der seinen Traum lebt und mir in unbefriedigenden Skype-Gesprächen davon erzählt. Ich will zwei Träume, die sich ergänzen und anstacheln und miteinander verschmelzen, selbst über die Distanz.  
+Und nein, eine Fernbeziehung wird nicht leichter.  
+Es wird nicht leichter, alle Dinge aus seinem Herzen auf eine Tastatur zu packen. Es wird sich immer so anfühlen, als fehle etwas. Wenn du fährst, wird mir immer noch etwas einfallen, das ich dir sagen, erzählen oder zeigen wollte. Es wird nie genug sein, dieses Stück Scheinrealität.   
+Aber es kann schön sein. Es kann Teil eines Traumes sein, der vielleicht erst dadurch wirklich echt wird.  
+Ich rate euch immer noch, wählt keine Fernbeziehung, wenn ihr die Wahl habt. Die Frage ist: Würde ich sie selbst noch einmal wählen?  
+Nun, hatte ich denn wirklich eine Wahl?

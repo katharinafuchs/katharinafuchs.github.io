@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Fuchsfutter: Ingwertee"
+image: http://farm4.staticflickr.com/3741/12678883413_a4f0d51653_c.jpg
+tags:
+- food
 ---
 
 Ich habe ein neues Lieblingsgetränk.  
