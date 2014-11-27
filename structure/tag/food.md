@@ -1,5 +1,5 @@
 ---
 layout: tag
 permalink: tag/food/
-title: Fuchsfutter
+title: food
 ---
