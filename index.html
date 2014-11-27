@@ -19,7 +19,9 @@ layout: default
     <div class="row articlelist">
 
       {% for post in paginator.posts %}
+      {% if post.id != site.posts.first.id %}
       {% include post_preview.html %}
+      {% endif %}
       {% endfor %}
 
       {% if paginator.next_page %}
