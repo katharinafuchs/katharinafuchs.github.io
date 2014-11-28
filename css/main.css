@@ -65,6 +65,19 @@ body{
         font-family: 'Unica One', sans-serif;
         text-transform: uppercase;
         font-size: 4em}
+.featurepost h1 a {
+        color: #333;
+        text-decoration: none;
+        -webkit-transition: color ease-out .5s;
+        -moz-transition: color ease-out .5s;
+        -o-transition: color ease-out .5s;
+        transition: color ease-out .5s;
+        
+}
+
+.featurepost h1 a:hover, .featurepost h1 a:hover {
+        color: #f16a4c;
+}
         
 .featureexcpt {
         -webkit-column-count: 2;
