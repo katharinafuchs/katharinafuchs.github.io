@@ -24,13 +24,14 @@ layout: default
       {% endif %}
       {% endfor %}
 
-      {% if paginator.next_page %}
+    </div>
+    
+          {% if paginator.next_page %}
       <div class="moreposts">
         <a href="{{ paginator.next_page_path }}" class="loadposts">+</a>
       </div>
       {% endif %}
-
-    </div>
+      
   </div>
 </section>
 
