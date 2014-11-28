@@ -6,7 +6,7 @@ layout: default
     <img src="{% if site.posts.first.image %}{{ site.posts.first.image }}{% else %}/img/default.jpg{% endif %}" class="featureimg img-responsive">
   </a>
   <span class="dateinfo">{{ post.date | date: "%-d. %b %Y" }}</span>
-  <h1>{{ site.posts.first.title }}</h1>
+  <h1><a href="{{ site.posts.first.url | prepend: site.baseurl }}">{{ site.posts.first.title }}</a></h1>
   <div class="featureexcpt">
     <p>{{ site.posts.first.content | strip_html | truncatewords:200 }} <a href="{{ site.posts.first.url | prepend: site.baseurl }}" class="featurereadmore">Read more!</a>
     </p>
