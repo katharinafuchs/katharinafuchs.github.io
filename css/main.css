@@ -226,6 +226,15 @@ body{
         opacity: .8;
 }
 
+/* TAG LISTE */
+
+.tagliste  h1 {
+margin: 3em auto 2em auto;
+text-align: center;
+text-transform: uppercase;
+border-bottom: 1px solid #f16a4c; }
+
+
 /* BLOG FOOTER */
 
 .foxfooter{
