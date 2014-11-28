@@ -235,6 +235,21 @@ text-transform: uppercase;
 border-bottom: 1px solid #f16a4c; }
 
 
+
+.archive_list h3 {
+text-align: left;
+font-size: 1.8em;
+}
+
+li.archive_list {
+font-size: 1.2em;
+padding-top: 1.5em;
+padding-bottom: 1.5em;
+border-bottom: 1px solid #E5E5E5;
+list-style: none;
+}
+
+
 /* BLOG FOOTER */
 
 .foxfooter{
