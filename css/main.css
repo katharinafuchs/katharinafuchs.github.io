@@ -229,7 +229,7 @@ body{
 /* TAG LISTE */
 
 .tagliste  h1 {
-margin: 3em auto 2em auto;
+margin: 3em auto 1.1em auto;
 text-align: center;
 text-transform: uppercase;
 border-bottom: 1px solid #f16a4c; }
