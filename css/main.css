@@ -67,8 +67,8 @@ body{
         font-size: 4em}
         
 .featureexcpt {
-        -webkit-column-count: 1;
-        -moz-column-count: 1;
+        -webkit-column-count: 2;
+        -moz-column-count: 2;
         column-count: 2;
 }
 
