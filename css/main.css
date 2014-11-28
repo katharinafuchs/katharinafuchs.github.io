@@ -234,7 +234,9 @@ text-align: center;
 text-transform: uppercase;
 border-bottom: 1px solid #f16a4c; }
 
-
+.tagliste  ul {
+        list-style: none;
+}
 
 .archive_list h3 {
 text-align: left;
