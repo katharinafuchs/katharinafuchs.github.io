@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Hallo miteinander."
+image: http://farm8.staticflickr.com/7309/11324715483_4e89d37692_c.jpg
 permalink: ich/
 ---
 
 „Oh nein, nicht noch eine, die ihr Sushi und ihre Klamotten fotografiert!“, denkst du dir entsetzt, als du über diesen Blog stolperst. Ein weiteres 18-jähriges Mädchen, das ihr Tagebuch gerne der Internetgemeinde in die Fresse klatschen möchte – juhu.
-![Mädchen im Wasser im Portrait](http://farm8.staticflickr.com/7309/11324715483_4e89d37692_c.jpg "Hallöchen!")
 Und ja, ich wollte lange schon bloggen, ja, auch über Mädchendinge, aber die Technik war immer gegen mich. Sogar Tumblr ließ sich nicht von mir beherrschen.
 
 Vielleicht ist das gut so, denn mittlerweile möchte ich nicht mehr unbedingt rohen Fisch und rote Söckchen fotografieren, sondern der Welt etwas sagen.
