@@ -9,7 +9,8 @@ tags:
 Hallo Süßmenschen da draußen!
 Ja, große Neuigkeiten: Das neue Jahr ist da. Ich habe es auf einer Brücke über venezianischem Wasser mit ekelhaft süßem Sekt und einem weniger ekelhaften aber fast genauso süßen Mann begonnen. Genau dieser Mann hat auch diese Outfitfotos vor einer italienischen Wand gemacht. Danke dafür!  
 ![Imgur](http://i.imgur.com/l4HpzwY.jpg)  
-Weil nur Mode ja doch etwas langweilig wäre, habe ich mir Gedanken gemacht, welche Pläne ich mir für 2015 machen könnte. Hier ist Nummer eins:
+Weil nur Mode ja doch etwas langweilig wäre, habe ich mir Gedanken gemacht, welche Pläne ich mir für 2015 machen könnte. Hier ist Nummer eins:  
+
  **Ich möchte mehr lachen.** Viel zu oft vergrabe ich mein Hirn in Dingen, die mich traurig machen, statt zu erkennen, dass ich darüber auch einfach lachen könnte. Das ist doof. Das möchte ich ändern.  
 
 ![Imgur](http://i.imgur.com/5summyG.jpg)  
