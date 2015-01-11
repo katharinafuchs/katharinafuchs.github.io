@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Meine wichtigste Beziehungserfahrung"
+image: http://i.imgur.com/o9YtdMh.jpg
+tags:
+- feelings
+---
+
+*(Disclaimer: Ich schreibe hier aus der weiblichen Perspektive und verwende deswegen zumeist männliche Formen. Das Gleiche gilt aber bestimmt auch andersherum.)*   
+Dieser Post entstand im Rahmen der [Blogger packen aus](http://deineperfektebeziehung.de/blogger-packen-aus/#.VHiiH5OG83o)-Kampagne.  
+  
+Dass ich mich heute mit meinem Vater über seine Feier-Vergangenheit unterhalten kann, verdanke ich einem meiner Exfreunde. Dem gleichen Kerl verdanke ich es, dass er heute mein Exfreund ist und ich einen neuen Freund habe. Die beiden haben überhaupt nichts miteinander zu tun, aber trotzdem.   
+Versteht ihr nicht? Dann passt mal auf! Besagter Exfreund führte mich quasi in die Karlsruher Clubszene ein. Davor war ich nie dort feiern gewesen, die Großraumdisco im Nachbardorf blieb das höchste (nein, eigentlich nicht) der Gefühle.  Wenn ihr hier schon länger mitlest, wisst ihr aber, dass ich mittlerweile quasi Stammgast im [Vanguarde](http://fuchsgehtum.de/fuchsrevier-café-vanguarde/) und beim [Farbenfrohen Firlefanz](http://fuchsgehtum.de/fuchsrevier-farbenfroher-firlefanz/) bin. Und jetzt ratet, durch wen ich beides kenne? Ja, genau.  
+Weil man mich dort mittlerweile kennt, fragten mich die Leute vom [Vanguarde](http://vanguar.de/) Anfang diesen Jahres, ob ich nicht bei den Fotos für den Flyer einer ihrer Veranstaltungen mitmachen wollte. Und jetzt ratet, wen ich nach genau diesem Fotoshooting traf und so kennen lernte? Ja, genau. Nicht meinen alten, sondern meinen neuen Freund. Verrückt, oder?   
+Worauf aber will ich damit hinaus? Nun, folgendes: Ich habe irgendwann realisiert, was alle meine vergangenen Beziehungen vereint. Nein, nicht, dass sie alle vorbei sind, auch nicht, dass sie alle mit Männern stattfanden, sondern, dass sie mir alle etwas gegeben haben. Seien das neue Clubs, neue Freunde oder neue Erkenntnisse über mich selbst, irgendetwas habe ich immer mitgenommen.  Das ist auch der Grund, warum ich niemals tiefsinnige Sprüche wie "Do you ever wish you could go back to who you were before you met him?" in irgendwelchen sozialen Netzwerken posten würde. Für mich sind diese nach meiner Erkenntnis nämlich absoluter Blödsinn. Warum zurück? Weil ihr unberührter wart, unschuldiger? Weil er euer Herz gebrochen und ihr geweint habt?   
+Newsflash: Ich habe auch viel geweint um Jungs und Männer. Im Rückblick vielleicht zu viel, aber ich würde nichts davon zurücknehmen. Genau diese Tränen und alle unangenehmen Erlebnisse, aber auch jedes Lachen und alles, was ich im Nachhinein an positiven Dingen aus jeder einzelnen Beziehung gelernt habe, sind für mich ganz elementar wichtig. Für mich als Person und als reflektiertes Wesen.   
+Und das gilt nicht nur für Beziehungen, sondern auch Freundschaften und jeden Menschen, den ihr trefft. Irgendetwas wird von jeder Begegnung an euch haften bleiben. Die wichtigste Erfahrung, die ich diesbezüglich gemacht habe, ist diese: Versucht nicht, euch davon reinzuwaschen, sondern seht das Gute, das euch berührt hat. So lässt es sich übrigens auch ganz wunderbar mit alten Lieben und Verflossenen umgehen. (Wenn ihr das lest, Männer: Danke für die Küsse und Erfahrungen!)   
+Ich würde euch ja zum Abschluss eine Liste aller Männer in meinem Leben und was sie mir gegeben haben machen, aber irgendwo fängt dann doch die Privatsphäre an...   
+Nur so viel: Fangt an, das Positive wahr- und mitzunehmen. Hört auf, euren Ex auf andere zu projizieren. Seht euch an, was ihr an ihm mochtet und nicht mochtet und nehmt das als neutrale Kriterien für Neues auf. Am Ende kommt es aber doch anders, als man denkt.  Nehmt das Gute mit und lasst das Schlechte zurück. Auf dass die nächste Liebe besser wird, glücklicher.  
+Und jetzt nehmt meine Fuchsliebe und geht, sonst wird mir das hier echt zu sentimental!
