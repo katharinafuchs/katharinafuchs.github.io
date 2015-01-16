@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Der Ersti-Guide für einen kühlen Klausurenkopf in 5 Schritten"
+image: http://i.imgur.com/JcbjMhJ.jpg
+tags:
+- feelings
+---   
+
+Es ist Klausurphase und deutschlandweit hängen Ersti-Herzen ganz tief in den Höschen. Die ersten Arbeiten in der Uni-Zeit und alle Albträume der Welt werden wahr: "Gegen Uniklausuren ist das Abi ein Strandspaziergang!", "Die Klausur war vielleicht letztes Jahr leicht, aber dieses Jahr wird sich das zu hundert Prozent ändern!", "Wie, du hast noch nicht alle Begleitlektüren auswendig gelernt?!"...  
+Nein. Weg mit diesen Äußerungen. So wird nicht gespielt hier im Fuchsbau! Ich mag auch nicht die Ruhe selbst sein, aber ich habe einige Wege gefunden, nicht komplett die Nerven zu verlieren. Dies sind meine Top 5:  
+
+* **Erkenne deinen Lerntyp!** Ein Kumpel von mir lernt alle Folien komplett auswendig, ich male Schaubilder, wir lernen trotzdem für dieselbe Klausur. Es gibt nicht den einen, richtigen Weg, sich vorzubereiten, weil jeder von uns unterschiedlich lernt. Es gibt verschiedenste Kanäle, die man beim Lernen ansprechen kann: Abschreiben, aufsagen, abstrahieren... Finde heraus, welcher davon für dich am besten funktioniert! Nur weil ein Großteil deiner Freunde anders lernt, muss das nicht das Richtige für dich sein!  
+* **Gib' dich hin!** Was ich damit meine, ist folgendes: Ja, die Lern- und Klausurphase ist nervig und blöd und immer in der Bib zu sitzen ist nicht unbedingt vergügungssteuerpflichtig. Aber was bringt es dir, deinen Dickschädel gegen die Tische zu hauen und "Ich will aber nicht!" zu brüllen? Richtig, nicht viel. Außer vielleicht einen Bibliotheksverweis. Ich hätte wirklich nie gedacht, dass ich das mal sage, aber ich bin mittlerweile gern in der Bibliothek. Es belohnt mich unheimlich, in meinem Stoff weiterzukommen, Konzepte zu verstehen, das perfekte Beispiel zu finden... Was auch immer es ist, es bringt dich immerhin weiter zu deinem Ziel: Das erste Bier nach der Klausurphase. Pardon, natürlich erfolgreiche Klausuren!  
+* **Mach mal nichts!** Ja, es ist Lernphase, aber mamma mia, du kannst einfach nicht 24 Stunden am Tag lernen. So lange ist niemand produktiv, also nimm' dir bewusst Pausen! Hör' auf, die ganze Zeit vor deinen Unterlagen zu sitzen, obwohl dein Kopf ein regelrechtes Wattewölkchen ist. Hol dir 'ne Mate und hab' kein schlechtes Gewissen deshalb. Gönn' dir ein Feierabendbier oder einen Abend Bass und Tanzen - es wird dich schon nicht umbringen, vertrau mir!  
+* **Entspann' dich!** Hör' nicht auf Menschen, die behaupen, eure Prüfung umfasse Dinge, die die Profs nie angesprochen haben. Tu es einfach nicht. Verlass' dich auf das Wort deiner Lehrenden und deine Unterlagen. Lern', was relevant ist und was nicht und sortiere einfach aus. Und lass dich um Himmels willen nicht verrückt machen.  
+* **Behalt' den Überblick!** Geht Hand in Hand mit dem letzten Tipp: Sondiere, welche Prüfungen besonders wichtig sind, welche du vielleicht nur bestehen musst, was genau du machen musst etc. Es gibt ganz wunderbare Programme, in die du außerdem deine Noten eintragen und berechnen kannst, welche Note du beispielsweise für eine bestimmte Zielnote brauchst. Da ich sowas auf dem Papier immer verliere und auch mit den Berechnungen von Noten nicht ganz so vertraut bin, mache ich das mit [GradeView](https://gradeview.de/). Funktioniert bisher super. Okay, ich habe auch erst eine Note eingetragen, aber ich sehe mich schon in höheren Semestern den Kopf verlieren, weil ich keinen Plan hab' - ha, ausgetrickst, Zukunfts-Ich!  
+
+Zu guter Letzt: Leute, so schlimm wird das nicht. Wir stehen das alle durch und danach gibt es Bier. Behaltet das im Kopf, nehmt meine Fuchsliebe mit und macht mich stolz!
