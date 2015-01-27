@@ -12,7 +12,7 @@ Siemensstraße 1b
   
 Kontakt:
 
-E-Mail:  post@fuchsgehtum.de  
+E-Mail:  fuchsbloggt@gmail.com  
 Handy: 017697832319  
 
 Quellenangaben für die verwendeten Bilder und Grafiken:

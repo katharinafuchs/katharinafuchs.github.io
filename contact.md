@@ -6,7 +6,7 @@ permalink: kontakt/
 
 Ihr wollt mir was schreiben? Klar, immer her damit!
 
-E-Mail: post@fuchsgehtum.de
+E-Mail: fuchsbloggt@gmail.com
 
 
 Und soziale Netzwerke hab ich auch: 
