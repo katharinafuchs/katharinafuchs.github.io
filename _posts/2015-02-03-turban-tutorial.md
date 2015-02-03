@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Get the Wahrsagerinnen-Look - Turban-Tutorial"
-image: http://i.imgur.com/1SKvKUG.jpg
+image: http://i.imgur.com/Q8kgjoz.jpg
 tags:
 - fashion
 ---   
