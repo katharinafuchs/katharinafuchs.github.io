@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Als wir träumten und ich im Kino war"
-image: http://i.imgur.com/IETvCYI.jpg
+image: http://i.imgur.com/BjzaFla.jpg
 tags:
 ---   
 „Ist das hier ein Seniorenfilm?“, fragt mich ein Mann mittleren Alters, der neben mir in der Pressevorführung von „Als wir träumten“ sitzt. Ich muss ein bisschen lachen und verneine. Nein, eigentlich ist Andreas Dresens neuster Kinofilm nicht speziell für Senioren. Dafür hat er einfach ein bisschen zu viel Techno, Strobo und In-die-Fresse-Gehaue. 
