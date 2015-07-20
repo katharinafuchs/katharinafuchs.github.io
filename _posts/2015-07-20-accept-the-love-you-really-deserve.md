@@ -31,4 +31,9 @@ Ich bin nicht perfekt, aber ich bin mehr als ein "perfektes" Bild von einer Frau
  Ich bin so verdammt viel mehr als das.   
  
 
-Und dieses "mehr" ist nicht zu viel. Denn für irgendjemanden da draußen ist dieses "mehr" genug. **Und das verdiene ich.**
+Und dieses "mehr" ist nicht zu viel. Denn für irgendjemanden da draußen ist dieses "mehr" genug.   
+**Und das verdiene ich.**
+   
+   
+
+*Danke an [Marc](http://atmochrom.com/) für die tollen Fotos und die Freundschaft. Fuchsliebe an euch alle - ich hoffe, manche von euch verstehen das hier!*
