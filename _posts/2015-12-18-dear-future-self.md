@@ -12,7 +12,8 @@ Fantastische Freunde, wunderbare Parties, sich erfüllende Wünsche und Liebe, L
 
 **Woran liegt das?**  
 Vielleicht daran, dass das Leben es gerade gut mit mir meint. Vielleicht ist es Glück, Zufall, Schicksal.
-Vielleicht liegt es aber auch daran, dass ich eine wichtige Sache gelernt habe: Ich habe gelernt, zu sagen **"Es ist okay."**  
+Vielleicht liegt es aber auch daran, dass ich eine wichtige Sache gelernt habe:  
+Ich habe gelernt, zu sagen **"Es ist okay."**  
 Es ist okay, so zu sein, wie ich bin. Es ist vielleicht nicht immer das, was man perfekt nennen würde, aber (um mal ganz viele Klischees zu bedienen) "was ist schon perfekt?" Unglaublich dabei geholfen hat mir die Psychologische Beratung meiner Uni. Und damit du, liebes Zukunfts-Ich, das nicht vergisst, schreibe ich es dir hier nochmal auf. Schwarz auf weiß: **Es ist okay.**  
 
 Ich bin zu dieser Beratung gegangen, weil ich mich hilflos fühlte. Unsicher. Allein. Und genau das bin ich immer noch manchmal. Aber ich habe gelernt, damit umzugehen. In meinem Kopf hat sich in den letzten Wochen sehr vieles geändert, gedreht und erschien plötzlich in ganz neuem Licht. Und irgendwie passt es zusammen, verbinden sich Puzzleteile da, wo vorher nur Chaos und Verwirrung waren. Das hier ist für dich, falls du diese Klarheit mal verlierst. Wenn das passiert, ist es nicht schlimm, aber ich möchte dir etwas an die Hand geben, Zukunfts-Ich, an das du dich selbst erinnern kannst, wenn da mal wieder nur Dunkelheit und Durcheinander sind.  
